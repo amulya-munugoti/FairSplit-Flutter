@@ -315,7 +315,7 @@ You can remove sample data from the Profile screen.
 
 The demo covers onboarding, home screen, group details, adding expenses, different split methods, settle up, activity search, group creation, currency selection, and dark theme.
 
-▶️ **[Watch the FairSplit Demo Video](<YOUR_DEMO_VIDEO_URL>)**
+▶️ **[Watch the FairSplit Demo Video](<https://github.com/user-attachments/assets/e2211283-19d4-4187-9a3f-71536c8bfd05>)**
 
 ---
 
@@ -356,3 +356,5 @@ Add your preferred license before distributing the project.
 *Split fairly • Track clearly • Settle easily*
 
 </div>
+
+https://github.com/user-attachments/assets/e2211283-19d4-4187-9a3f-71536c8bfd05
